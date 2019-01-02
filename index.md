@@ -5,7 +5,7 @@
 layout: default
 ---
 
-# [// resume](resume18-1.pdf)
+# [// resume](resume_kitlee.pdf)
 
 # [// projects](projects)
 
