@@ -21,10 +21,18 @@ I have also contributed to some open-source projects. I am not the owner of thes
 
 #### [scikits.bvp_solver](https://github.com/wingkitlee0/scikits.bvp_solver)
 
-This is a Python library for solving two-point boundary value problems, based on a well-known Fortran library ([BVP_SOLVER](http://cs.stmarys.ca/~muir/BVP_SOLVER_Webpage.shtml)). Both original Fortran and the Python wrapper were life-savers for me on my PhD thesis. I have updated it to be more compatible with Python 3 and also on Windows system. 
+This is a Python library for solving two-point boundary value problems, based on a well-known Fortran library ([BVP_SOLVER](http://cs.stmarys.ca/~muir/BVP_SOLVER_Webpage.shtml)). Both original Fortran and the Python wrapper were life-savers for me on my PhD thesis.
+Contributions:
+- Added Python 3 compatibility
+- Added support on Windows + ming-w64
+- Added support for equations with complex variables
 
 #### [scikit-cuda](https://scikit-cuda.readthedocs.io/en/latest/)
 
-This is a Python wrapper for the [MAGMA](http://icl.cs.utk.edu/magma/) GPU linear algebra library, which allows drop-in replacement of the scipy package. The MAGMA library is needed because the standard linear algebra library from NVIDIA (i.e., CUSOLVER) does not have all the routines included. For example, it lacks the non-axisymmetric eignvalue solver (i.e., geev in LAPACK).
+This is a Python wrapper for the [MAGMA](http://icl.cs.utk.edu/magma/) GPU linear algebra library, which allows drop-in replacement of the scipy package. The MAGMA library is needed because the standard linear algebra library from NVIDIA (i.e., CUSOLVER) does not have all the routines included. 
+Contributions:
+- Added support for non-axisymmetric eignvalue solver (i.e., geev in standard LAPACK library).
 
+### [Arxiv Reader](https://www.microsoft.com/en-us/p/arxiv-reader/9nblggh5kb5j) (Mobile)
 
+This is an app to browse papers via the RSS feeds from [arxiv.org](arxiv.org). Over a hundred of acquisitions on the Windows Phone platform.

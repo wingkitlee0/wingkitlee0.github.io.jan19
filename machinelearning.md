@@ -5,8 +5,6 @@
 layout: default
 ---
 
-# [// resume](resume18-1.pdf)
+coming soon!
 
-# [// projects](projects)
-
-# [// machine learning](machinelearning)
+some stuff can be found [here](https://github.com/wingkitlee0/arxiv_explore).
