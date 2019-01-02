@@ -4,3 +4,7 @@
 
 layout: default
 ---
+
+# [resume](resume18-1.pdf)
+
+# [projects](projects)
