@@ -28,6 +28,8 @@ markdown: kramdown
 theme: jekyll-theme-minimal
 plugins:
   - jekyll-feed
+  - jekyll-seo-tag
+google-analytics: UA-131734105-1
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
