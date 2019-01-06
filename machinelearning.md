@@ -11,6 +11,8 @@ When a paper is being submitted to the arxiv preprint server, the author needs t
 
 Some stuff can be found [here](https://github.com/wingkitlee0/arxiv_explore).
 
+A template of the webapp is [here](https://ifg73yt4kk.execute-api.us-east-1.amazonaws.com/dev/)
+
 ## Demo of webapp (Iris dataset)
 
 [webapp](https://azj31tvvek.execute-api.us-east-1.amazonaws.com/dev/)
