@@ -11,11 +11,11 @@ When a paper is being submitted to the arxiv preprint server, the author needs t
 
 Some stuff can be found [here](https://github.com/wingkitlee0/arxiv_explore).
 
-As a proof-of-concept, I have deployed a [web app](https://sm2op9jgr0.execute-api.us-east-1.amazonaws.com/dev/) for the twenty-news-group dataset. Feel free to take a look.
+## Demo of webapp (20 news group  dataset)
 
-## Demo of webapp (Iris dataset)
+[webapp](https://sm2op9jgr0.execute-api.us-east-1.amazonaws.com/dev/)
 
-[webapp](https://azj31tvvek.execute-api.us-east-1.amazonaws.com/dev/)
+(It may take a few seconds to load.)
 
 Before fully implementing the above project, I tried to make a working demo. This demo takes two numbers (features) from users, and predict which type of Iris it should belong. While it is a textbook machine learning, I have made an web app.
 
@@ -23,4 +23,4 @@ Features:
 - Data (model parameters) are hosted on *Amazon S3*
 - Webapp is running on *Amazon Lambda* using *flask*
 
-The codes and reference are hosted on [GitHub](https://github.com/wingkitlee0/lambda-ml-examples/tree/master/webapp)
+The codes and reference are hosted on [GitHub](https://github.com/wingkitlee0/flask-webapps/tree/master/newsgroup)
