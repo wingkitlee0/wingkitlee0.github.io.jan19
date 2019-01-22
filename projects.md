@@ -9,9 +9,9 @@ layout: default
 
 Here are a few projects that I have done during spare time.
 
-### Abstract Analyzer
+### [Abstract Analyzer](https://azj31tvvek.execute-api.us-east-1.amazonaws.com/dev/)
 
-![A demo GIF was here..](https://raw.githubusercontent.com/wingkitlee0/wingkitlee0.github.io/master/images/demo.gif | height = 300)
+<img src="https://raw.githubusercontent.com/wingkitlee0/wingkitlee0.github.io/master/images/demo.gif" height=300/>
 
 This is a webapp that analyzes the summary of a paper and classify it into one of the astro-ph categories. I put the details [here](machinelearning.md)
 
