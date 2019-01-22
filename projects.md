@@ -38,7 +38,7 @@ Contributions:
 
 This is a Python wrapper for the [MAGMA](http://icl.cs.utk.edu/magma/) GPU linear algebra library, which allows drop-in replacement of the scipy package. The MAGMA library is needed because the standard linear algebra library from NVIDIA (i.e., CUSOLVER) does not have all the routines included. 
 Contributions:
-- Added support for non-axisymmetric eignvalue solver (i.e., geev in standard LAPACK library).
+- Added support for non-symmetric eignvalue solver (i.e., geev in standard LAPACK library).
 
 ### [Arxiv Reader](https://www.microsoft.com/en-us/p/arxiv-reader/9nblggh5kb5j) (Mobile)
 
