@@ -9,13 +9,13 @@ layout: default
 
 ![A demo GIF was here..](https://raw.githubusercontent.com/wingkitlee0/wingkitlee0.github.io/master/images/demo.gif)
 
-When a paper is being submitted to the [arxiv](www.arxiv.org) preprint server, the author needs to manual select which category the paper belong to. This [webapp](https://azj31tvvek.execute-api.us-east-1.amazonaws.com/dev/) allow user to enter their abstract (i.e., a few line of summary of their important paper), then the code will analyze it and suggest a category (in astronomy). It is done by analyzing (and learning) from the previous submitted abstract. 
+When a paper is being submitted to the [arxiv](www.arxiv.org) preprint server, the author needs to manually select which category the paper belong to. This [webapp](https://azj31tvvek.execute-api.us-east-1.amazonaws.com/dev/) allow user to enter their abstract (i.e., a few lines of the summary of their important paper), then the code will analyze it and suggest a category it belongs (in astronomy). The classification task is done by a small neural network (trained by submitted abstracts).
 
 Check the title for the webapp. 
 
 The code can be found [here](https://github.com/wingkitlee0/arxiv_explore).
 
-*More details are coming*, including how to deploy the webapp (including numpy and tensorflow) onto Amazon Lambda serverless service.
+*More details are coming*, including how to deploy the webapp (with numpy and tensorflow) onto Amazon Lambda serverless service.
 
 ## Demo of webapp (20 news group  dataset)
 
