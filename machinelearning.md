@@ -9,7 +9,7 @@ layout: default
 
 When a paper is being submitted to the arxiv preprint server, the author needs to manual select which category the paper belong to. This webapp is basically to analyze the abstract and suggest a category. It is done by analyzing (and learning) from the previous submitted abstract. Right now I am focusing on papers in the field of astrophysics.
 
-<iframe src="https://azj31tvvek.execute-api.us-east-1.amazonaws.com/dev/"></iframe>
+<iframe src="https://azj31tvvek.execute-api.us-east-1.amazonaws.com/dev/" width="550"></iframe>
 
 Some stuff can be found [here](https://github.com/wingkitlee0/arxiv_explore).
 
