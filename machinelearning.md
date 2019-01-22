@@ -5,13 +5,15 @@
 layout: default
 ---
 
-## Abstract analyzer (coming soon!)
+## [Abstract Analyzer](https://azj31tvvek.execute-api.us-east-1.amazonaws.com/dev/)
 
-When a paper is being submitted to the arxiv preprint server, the author needs to manual select which category the paper belong to. This webapp is basically to analyze the abstract and suggest a category. It is done by analyzing (and learning) from the previous submitted abstract. Right now I am focusing on papers in the field of astrophysics.
+When a paper is being submitted to the [arxiv](www.arxiv.org) preprint server, the author needs to manual select which category the paper belong to. This [webapp](https://azj31tvvek.execute-api.us-east-1.amazonaws.com/dev/) allow user to enter their abstract (i.e., a few line of summary of their important paper), then the code will analyze it and suggest a category (in astronomy). It is done by analyzing (and learning) from the previous submitted abstract. 
 
-<iframe src="https://azj31tvvek.execute-api.us-east-1.amazonaws.com/dev/" width="550"></iframe>
+Check the title for the webapp. 
 
-Some stuff can be found [here](https://github.com/wingkitlee0/arxiv_explore).
+The code can be found [here](https://github.com/wingkitlee0/arxiv_explore).
+
+*More details are coming*, including how to deploy the webapp (including numpy and tensorflow) onto Amazon Lambda serverless service.
 
 ## Demo of webapp (20 news group  dataset)
 
