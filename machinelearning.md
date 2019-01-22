@@ -7,7 +7,7 @@ layout: default
 
 ## [Abstract Analyzer](https://azj31tvvek.execute-api.us-east-1.amazonaws.com/dev/)
 
-![Alt Text](https://raw.githubusercontent.com/wingkitlee0/wingkitlee0.github.io/master/images/demo.gif)
+![A demo GIF was here..](https://raw.githubusercontent.com/wingkitlee0/wingkitlee0.github.io/master/images/demo.gif)
 
 When a paper is being submitted to the [arxiv](www.arxiv.org) preprint server, the author needs to manual select which category the paper belong to. This [webapp](https://azj31tvvek.execute-api.us-east-1.amazonaws.com/dev/) allow user to enter their abstract (i.e., a few line of summary of their important paper), then the code will analyze it and suggest a category (in astronomy). It is done by analyzing (and learning) from the previous submitted abstract. 
 
